@@ -115,6 +115,6 @@ input::-webkit-inner-spin-button {
 }
 @media (max-width:600px){
     *{
-        scale: 0.9;
+        scale: 0.97;
     }
 }
